@@ -40,6 +40,7 @@
       "no-unused-vars": "off",
       "no-unused-expressions": "off",
       "arrow-parens": "off",
+      "arrow-body-style": "off",
       "object-curly-newline": "off",
       "operator-linebreak": "off",
       "implicit-arrow-linebreak": "off",
